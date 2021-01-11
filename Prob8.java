@@ -2,6 +2,7 @@ package probs;
 
 import java.util.Scanner;
 
+//Valid for all odd inputs
 class Prob8 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
